@@ -3,6 +3,7 @@
 <br>
 
 # [中文说明](#readme)
+# [English description](#readme-en)
 
 ## 工具界面
 在漏洞选择编号处，选择需要检测的漏洞。
