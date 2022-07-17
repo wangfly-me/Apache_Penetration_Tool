@@ -3,7 +3,7 @@
 <br>
 
 # [中文说明](#readme)
-# [English description](#[readme-en](https://github.com/wangfly-me/Apache_Penetration_Tool/blob/main/README.md))
+# [English description](#https://github.com/wangfly-me/Apache_Penetration_Tool/blob/main/README-EN.md)
 
 ## 工具界面
 在漏洞选择编号处，选择需要检测的漏洞。
