@@ -1,5 +1,7 @@
 # Apache_Penetration_Tool
 使用QT C++开发的一款漏洞利用工具，漏洞详情分析请见：https://www.hui-blog.cool/posts/de1f.html
+<br>
+[中文说明](#readme)
 
 ## 工具界面
 在漏洞选择编号处，选择需要检测的漏洞。
